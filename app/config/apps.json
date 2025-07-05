@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "id": "main",
+      "manifest": "config/manifest.json"
+    }
+  ]
+}

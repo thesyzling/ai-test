@@ -1,0 +1,1 @@
+from openfabric_pysdk.transport.resource_descriptor import ResourceDescriptor
